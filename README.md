@@ -1,6 +1,6 @@
 # Common instances
 
-Django app common_instances for Django AIR project. Includes common instances for several projects. 
+Django app common_instances for Django AIR project. Includes common instances for several Django projects. 
 
 ## Installation
 
