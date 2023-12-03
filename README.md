@@ -6,7 +6,7 @@ Django app common_instances for Django AIR project. Includes common instances fo
 
 From git:
 
-    $ python pip install git+https://git.foxminded.ua/foxstudent103969/common_instances.git@1.0
+    $ python pip install git+https://github.com/LittleSergo/common_instances.git@1.0
 
 ## Usage
 
